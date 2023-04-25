@@ -66,6 +66,17 @@
     
     
     <entry>
+      <title>默认</title>
+      <link href="/article/index.html"/>
+      <url>/article/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标签</title>
       <link href="/article/tags.html"/>
       <url>/article/tags.html</url>
