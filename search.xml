@@ -44,50 +44,6 @@
     
     
     <entry>
-      <title>随便逛逛</title>
-      <link href="/article/anyartical.html"/>
-      <url>/article/anyartical.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/article/divisions.html"/>
-      <url>/article/divisions.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>默认</title>
-      <link href="/article/index.html"/>
-      <url>/article/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/article/tags.html"/>
-      <url>/article/tags.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -110,9 +66,9 @@
     
     
     <entry>
-      <title>关于我</title>
-      <link href="/my/aboutme.html"/>
-      <url>/my/aboutme.html</url>
+      <title>随便逛逛</title>
+      <link href="/article/anyarticle/index.html"/>
+      <url>/article/anyarticle/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -121,9 +77,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/my/movies.html"/>
-      <url>/my/movies.html</url>
+      <title>分类</title>
+      <link href="/article/divisions/index.html"/>
+      <url>/article/divisions/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -132,42 +88,9 @@
     
     
     <entry>
-      <title>相册</title>
-      <link href="/my/photo.html"/>
-      <url>/my/photo.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>朋友圈</title>
-      <link href="/site/friends.html"/>
-      <url>/site/friends.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日志</title>
-      <link href="/site/index.html"/>
-      <url>/site/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/site/link.html"/>
-      <url>/site/link.html</url>
+      <title>标签</title>
+      <link href="/article/tags/index.html"/>
+      <url>/article/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -214,6 +137,72 @@
       <url>/js/sitetitle/title.js</url>
       
         <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener("visibilitychange", function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = "w(ﾟДﾟ)w 不要走！再看看嘛！";    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = "♪(^∇^*)欢迎肥来！" + OriginTitile;    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于我</title>
+      <link href="/my/aboutme/index.html"/>
+      <url>/my/aboutme/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/my/movies/index.html"/>
+      <url>/my/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册</title>
+      <link href="/my/photo/index.html"/>
+      <url>/my/photo/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>朋友圈</title>
+      <link href="/site/friends/index.html"/>
+      <url>/site/friends/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/site/link/index.html"/>
+      <url>/site/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日志</title>
+      <link href="/site/logs/index.html"/>
+      <url>/site/logs/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     

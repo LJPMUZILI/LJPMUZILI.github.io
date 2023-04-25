@@ -2,69 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.muzilix.cn/manifest.json</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.muzilix.cn/my/aboutme.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.muzilix.cn/my/movies.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.muzilix.cn/my/photo.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.muzilix.cn/site/friends.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.muzilix.cn/site/index.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.muzilix.cn/site/link.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.muzilix.cn/posts/3eeb.html</loc>
     
     <lastmod>2023-04-25</lastmod>
@@ -83,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.muzilix.cn/article/anyartical.html</loc>
+    <loc>https://www.muzilix.cn/manifest.json</loc>
     
     <lastmod>2023-04-25</lastmod>
     
@@ -92,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.muzilix.cn/article/divisions.html</loc>
+    <loc>https://www.muzilix.cn/article/anyarticle/index.html</loc>
     
     <lastmod>2023-04-25</lastmod>
     
@@ -101,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.muzilix.cn/article/index.html</loc>
+    <loc>https://www.muzilix.cn/article/divisions/index.html</loc>
     
     <lastmod>2023-04-25</lastmod>
     
@@ -110,7 +47,61 @@
   </url>
   
   <url>
-    <loc>https://www.muzilix.cn/article/tags.html</loc>
+    <loc>https://www.muzilix.cn/article/tags/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.muzilix.cn/my/aboutme/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.muzilix.cn/my/movies/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.muzilix.cn/my/photo/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.muzilix.cn/site/friends/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.muzilix.cn/site/link/index.html</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.muzilix.cn/site/logs/index.html</loc>
     
     <lastmod>2023-04-25</lastmod>
     
